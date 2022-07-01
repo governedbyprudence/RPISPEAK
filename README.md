@@ -4,7 +4,7 @@
 
 <h2> The following python libraries are needed </h2>
 
-django
-simplesound
-schedule
+django |
+simplesound |
+schedule 
 
